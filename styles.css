@@ -1,0 +1,22 @@
+* {
+    font-family: fantasy;
+    border-style: ridge;
+}
+h1 {
+    text-align: center;
+    color: green;
+    background-color: bisque;
+}
+
+p {
+    background-color: bisque;
+}
+
+a {
+    background-color: green;
+    color: gold;
+}
+
+#euro {
+    text-align: right;
+}

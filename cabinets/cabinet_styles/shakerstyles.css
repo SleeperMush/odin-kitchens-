@@ -1,0 +1,44 @@
+* {
+    font-family: fantasy;
+}
+
+
+h1 {
+    text-align: center;
+}
+
+h1,
+h2,
+h4 {
+    color: green;
+    background-color: bisque;
+    border-style: ridge;
+}
+
+h5 {
+    font: caption;
+    font-size: small;
+}
+
+.types {
+    background-color: rgb(102, 211, 124);
+}
+#biglist,
+#intro {
+    border-style: ridge;
+}
+
+
+#imgone,
+#imgtwo,
+#imgfour {
+    text-align: center;
+}
+
+.main {
+    border: ridge;
+}
+
+.listtwo {
+    text-align: center;
+}
